@@ -53,7 +53,7 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=juanmanoel237&show_icons=true&theme=tokyonight&locale=fr" alt="Stats GitHub" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=juanmanoel237&show_icons=true&theme=tokyonight&locale=fr&hide_rank=true" alt="Stats GitHub" height="180" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juanmanoel237&layout=compact&theme=tokyonight&locale=fr" alt="Langages les plus utilisés" height="180" />
 </p>
 
