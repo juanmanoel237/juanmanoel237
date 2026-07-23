@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 - 💻 Développeur orienté **Fullstack** avec une forte appétence pour les produits web complets.
 - 🧠 J’aime concevoir des interfaces soignées côté Frontend et des APIs robustes côté Backend.
