@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Juan ! 👋</h1>
+<h1 align="center">Salut, moi c'est Juan !</h1>
 
 <p align="center">
   Développeur Web Fullstack passionné par la création d’applications modernes, performantes et utiles.
@@ -53,4 +53,4 @@
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanoel237)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndeguemanoeljuan@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ndeguemanoeljuan@gmail.com)
