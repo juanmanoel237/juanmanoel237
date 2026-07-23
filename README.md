@@ -50,6 +50,15 @@
 
 ---
 
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanmanoel237&show_icons=true&theme=tokyonight&locale=fr" alt="Stats GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmanoel237&layout=compact&theme=tokyonight&locale=fr" alt="Langages les plus utilisés" height="180" />
+</p>
+
+---
+
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manoel-ndegue-658949282/)
